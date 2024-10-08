@@ -1,6 +1,14 @@
 @charset "UTF-8";
 /* CSS Document */
 
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
 
 h1 {text-align:center;
 text-transform:uppercase;
